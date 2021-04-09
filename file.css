@@ -2,3 +2,11 @@ body {
   background-color: brown;
   color: burlywood;
 }
+
+main {
+  text-align: center;
+}
+ul,
+ol {
+  list-style-type: none;
+}
